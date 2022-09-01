@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+.about {
+  width: 150px;
+}
+.about-text {
+  font-family: 'Roboto';
+  font-weight: 500;
+  line-height: 56px;
+  color: #12022f;
+}
